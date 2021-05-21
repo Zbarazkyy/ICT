@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "timestamp": "2019-11-23 15:19:34",
+      "productcode": "OP01",
+      "potsize": 11.2,
+      "height": 31.9,
+      "linnaeusname": "Linnaea borealis",
+      "numberperorder": 1,
+      "purchaseprice": 33,
+      "branches": 2,
+      "images": [
+        "http://www.floraathome.nl/uploads/product/DENOAP260/DENOAP260.1.jpg"
+      ],
+      "languages": {
+        "english": [
+          {
+            "language": "EN",
+            "productname": "Barberton Daisy",
+            "category": "Green plant",
+            "promotionaltext": "Green plant which looks beautiful on a patio",
+            "description": "Green plant which can withstand low temperatures (minimum -10 C).",
+            "specifications": "Plant which can grow up to 30 cm.",
+            "caretips": "Water plant only once every two weeks.",
+            "aboutgrower": "This grower only used organic pesticides."
+          }
+        ],
+        "dutch": [
+          {
+            "language": "EN",
+            "productname": "Barberton Daisy",
+            "category": "Green plant",
+            "promotionaltext": "Green plant which looks beautiful on a patio",
+            "description": "Green plant which can withstand low temperatures (minimum -10 C).",
+            "specifications": "Plant which can grow up to 30 cm.",
+            "caretips": "Water plant only once every two weeks.",
+            "aboutgrower": "This grower only used organic pesticides."
+          }
+        ]
+      },
+      "grower": "A Flower Company"
+    }
+  ]
+}
