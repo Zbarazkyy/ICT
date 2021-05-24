@@ -12,7 +12,7 @@ public class HttpURLConnectionWithoutToken {
 
         URL url = null;
         try {
-            url = new URL("https://api.floraathome.nl/v2.0//products/get");
+            url = new URL("https://api.floraathome.nl/v2.0/products/get");
         } catch (MalformedURLException e) {
             e.printStackTrace();
         }
